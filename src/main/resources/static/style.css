@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html > body {
+    font-family: 'GmarketSansMedium';
+}
+
+/* 노말라이즈 */
+body, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+textarea {
+    width: 100%; /* 너비 100% */
+}
+
+input[type="submit"], /* 태그가 input이고 type이라는 속성을 가지는데, 해당 type의 속성값이 submit인 녀석을 선택 */
+button[type="submit"] { /* 태그가 button이고 type이라는 속성을 가지는데, 해당 type의 속성값이 submit인 녀석을 선택 */
+    margin-top: 10px; /* 상단 여백 10px */
+}
