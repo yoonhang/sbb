@@ -1,3 +1,9 @@
+#교재 : https://wikidocs.net/160947
+#동영상 : https://www.youtube.com/watch?v=YT49RH83v7g&list=PLmAWMAo-opQwgaIIVGPPcNrsqWRZYSkcj&index=9
+
+
+
+
 # 점프 투 스프링부트를 통한 질의응답 게시판
 ## 사용된 기술
 1. JAVA
